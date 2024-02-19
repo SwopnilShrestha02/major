@@ -1,0 +1,13 @@
+tqdm
+numpy
+scipy
+matplotlib
+pandas
+sklearn
+nltk
+notebook
+nbimporter
+torch
+torchvision
+allennlp
+pytorch_pretrained_bert==0.2.0
